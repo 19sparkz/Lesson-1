@@ -1,0 +1,57 @@
+Linux commands 
+
+Introduction to Linux
+
+What is Linux?
+
+Linux is an open-source operating system (OS) modeled after UNIX.
+
+It is freely distributable and can be downloaded, used, and modified by anyone.
+
+Linux is not just an OS; it is also a kernel that serves as the core for a wide variety of operating systems.
+
+
+=========================
+Linux vs. Windows and macOS
+
+Open Source: Linux source code is available to the public and anyone can view, modify, or distribute it. Windows and macOS, however, are proprietary and their source codes are not openly accessible.
+
+Customization: Linux offers more freedom for customization compared to Windows and macOS.
+
+Privacy & Security: Linux is generally considered more secure and privacy-focused than Windows. macOS is secure but less customizable.
+
+Software Updates: Linux distributions manage updates through a centralized package manager, offering more control over when and how updates are installed compared to Windows and macOS.
+
+System Resources: Linux typically requires fewer system resources (e.g., less memory and processing power), which makes it ideal for older hardware.
+
+Popular Linux Distributions
+Ubuntu: Known for its user-friendliness and community support.
+
+Fedora: Features cutting-edge technology and innovation.
+
+Debian: Praised for its stability and reliability.
+
+CentOS: Preferred for servers due to its stability and long-term support.
+
+============================
+
+Linux in DevOps
+Why is Linux Preferred in DevOps?
+
+
+
+Versatility and Flexibility: Linux can be easily integrated into various tools and environments, making it a preferred choice for DevOps tools and pipelines.
+
+Scripting and Automation: The availability of powerful shell scripting and automation tools (like Bash) makes Linux ideal for automating repetitive tasks and workflows.
+
+Containerization: Linux is the backbone of container technologies like Docker and Kubernetes, which are central to modern DevOps practices.
+
+CI/CD Tools: Most continuous integration/continuous deployment tools like Jenkins, GitLab CI, Github Actions are optimized for Linux environments.
+
+Practical DevOps Application
+Automating server setups using shell scripts.
+
+Managing application deployments using Docker and Kubernetes on Linux servers.
+
+Configuring CI/CD pipelines on Linux-based systems to ensure seamless software delivery.
+
